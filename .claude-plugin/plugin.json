@@ -1,0 +1,6 @@
+{
+  "name": "skill-board",
+  "version": "0.1.0",
+  "description": "See which skills Claude has loaded in this session",
+  "types": "./types/index.d.ts"
+}

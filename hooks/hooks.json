@@ -1,0 +1,4 @@
+{
+  "description": "Tracks skill prompt expansions and draws the Skill Board interface",
+  "modules": ["./register.js"]
+}
